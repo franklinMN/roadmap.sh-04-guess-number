@@ -1,0 +1,23 @@
+{
+  "name": "roadmap.sh-04-guess-number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinMN/roadmap.sh-04-guess-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinMN/roadmap.sh-04-guess-number/issues"
+  },
+  "homepage": "https://github.com/franklinMN/roadmap.sh-04-guess-number#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.5.0"
+  },
+  "type": "module"
+}
